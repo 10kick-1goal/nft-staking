@@ -59,7 +59,7 @@ create .env file in root directory.
 Clone the project
 
 ```bash
-  git clone git@github.com:karangorania/nft-staking.git
+  git clone git@github.com:0xExp-po/nft-staking.git
 ```
 
 Go to the project directory
